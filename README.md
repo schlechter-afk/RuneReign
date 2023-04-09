@@ -9,6 +9,7 @@
 - Added StealthArcher, Healer class to the given code.
 - Wall explosion feature along with area of effect (aoe) damage added.
 - Building levels randomly generated and attributes set in accord with the level.
+
 <img src="./additions.png"> Functionalities </img>
 
 - Open terminal and maximize the screen and also zoom out to view the game map in a better way.
