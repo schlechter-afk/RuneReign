@@ -10,6 +10,7 @@
 - Wall explosion feature along with area of effect (aoe) damage added.
 - Building levels randomly generated and attributes set in accord with the level.
 
+- Open terminal and maximize the screen and also zoom out to view the game map in a better way.
 - To run the game : `python3 game.py`
 - To view replays : `python3 replay.py`  and select the replay you want to watch according to mentioned date and time.
 - For Victory : All buildings apart from walls get destroyed from the map in all three levels.
