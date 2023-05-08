@@ -5,6 +5,7 @@
     - Dragon Character has been added, it can fly over walls.
     - Queen's Eagle Arrow has been added.
     - Movement avoiding walls has also been implemented.
+    - Test script for testing King.move and attack_target is added (Implemented using ```unittest``` module)
     
 - Added StealthArcher, Healer class to the given code.
 - Wall explosion feature along with area of effect (aoe) damage added.
